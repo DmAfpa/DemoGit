@@ -1,1 +1,3 @@
 ligne1 : texte.txt
+ajout pour github
+ajout2 pour insertion dans GitProjet4
